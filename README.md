@@ -1,7 +1,7 @@
 # CashBot
 Python bot using OCR to "scan" questions of a mobile online Quizz. CashBot will scrap google search page to find answers. (Study purpose)
 
-## Fonctionnalitites
+## Functionalities
 
 * Scan your iPhone or Android in real-time with an OCR
 * Search the answers to questions for you on Google
@@ -9,7 +9,7 @@ Python bot using OCR to "scan" questions of a mobile online Quizz. CashBot will 
 
 ## Installing
 
-You need to install these differents deppendencies to make CashBot work : 
+You need to install these different dependencies to make CashBot work : 
 * requests
 * PyQt5
 * Pillow
